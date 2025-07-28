@@ -1,4 +1,4 @@
-# 🖼️ Image Similarity Finder (CBIR-based)
+# 🖼️ Image Similarity Finder 
 
 With the increasing variety of fashion products available online, customers often struggle to find items visually similar to what they have in mind. This project addresses that challenge by building an **Image Similarity Finder** that retrieves visually similar fashion items based on a user-provided image. Instead of relying on user purchase history or ratings, this system uses **Content-Based Image Retrieval (CBIR)** techniques powered by deep learning to match products based on their visual features.
 
