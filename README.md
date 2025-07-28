@@ -42,8 +42,3 @@ The **Image Similarity Finder** offers a simple yet powerful way to search fashi
 
 ---
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone <repo-link>
-   cd image-similarity-finder
